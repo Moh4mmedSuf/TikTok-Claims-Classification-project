@@ -13,11 +13,11 @@ The goal of this model is to predict whether a TikTok video presents a "claim" o
 
 - Steps:
   
-1\ Exploratory Data Analysis (EDA) & Visualization 
-2\ Hypothesis Testing – Confirming that there's a statistically significant difference in the average view count of Verified and unverified accounts.
-3\ Logistic Regression Model
-4\ Machine Learning Model (Random Forest & XGBoost)
-5\ Evaluating & testing
+1. Exploratory Data Analysis (EDA) & Visualization 
+2. Hypothesis Testing – Confirming that there's a statistically significant difference in the average view count of Verified and unverified accounts.
+3. Logistic Regression Model
+4. Machine Learning Model (Random Forest & XGBoost)
+5. Evaluating & testing
 
 - Results:
 A supervised Machine Learning Model (Random Forest) That performed near perfect with an F1 Score of 99% and a precision score of 99%, That predicted whether The video presented either A claim or an Opinion Based on the Engagement levels associated with each video, including views, likes, shares, and downloads.
