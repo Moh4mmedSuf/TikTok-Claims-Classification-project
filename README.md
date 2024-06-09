@@ -11,7 +11,8 @@ solving the issue by Building a Machine Learning Model that Reduces the number o
 After Analyzing the Data, we concluded that it's much more likely that a reported video is presenting a Claim rather than an opinion so it will get prioritized to get individually reviewed by a human moderator.
 The goal of this model is to predict whether a TikTok video presents a "claim" or an "opinion" to help with the process of verifying if an account has violated the terms of service.
 
-- Steps: 
+- Steps:
+  
 1\ Exploratory Data Analysis (EDA) & Visualization 
 2\ Hypothesis Testing – Confirming that there's a statistically significant difference in the average view count of Verified and unverified accounts.
 3\ Logistic Regression Model
