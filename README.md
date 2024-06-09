@@ -22,3 +22,9 @@ The goal of this model is to predict whether a TikTok video presents a "claim" o
 A supervised Machine Learning Model (Random Forest) That performed near perfect with an F1 Score of 99% and a precision score of 99%, That predicted whether The video presented either A claim or an Opinion Based on the Engagement levels associated with each video, including views, likes, shares, and downloads.
 
 ![Screenshot 2024-06-09 150844](https://github.com/Moh4mmedSuf/TikTok-Claims-Classification-project/assets/133021629/eb6865b0-3cb7-4873-a19a-873c68dc0e75)
+
+![Screenshot 2024-06-09 150906](https://github.com/Moh4mmedSuf/TikTok-Claims-Classification-project/assets/133021629/b0435fd3-c8bc-497d-b9d7-60f9822e2eb3)
+
+![Screenshot 2024-06-09 151014](https://github.com/Moh4mmedSuf/TikTok-Claims-Classification-project/assets/133021629/377467e9-6cf2-4a95-b703-d0b84b33cb5a)
+
+![Screenshot 2024-06-09 151004](https://github.com/Moh4mmedSuf/TikTok-Claims-Classification-project/assets/133021629/db2d9e78-d4c0-4618-9198-e2a024b3eacd)
